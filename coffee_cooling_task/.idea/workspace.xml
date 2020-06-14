@@ -14,8 +14,8 @@
       <file leaf-file-name="cupofcoffee.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cupofcoffee.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="55" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="55" />
+            <state>
+              <caret column="17" selection-start-column="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -23,8 +23,8 @@
       <file leaf-file-name="test_cup_of_coffee_temperature_task.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_cup_of_coffee_temperature_task.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="47" />
               <folding>
                 <element signature="e#112#127#0" expanded="true" />
               </folding>
@@ -164,8 +164,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test_cup_of_coffee_temperature_task.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="47" />
           <folding>
             <element signature="e#112#127#0" expanded="true" />
           </folding>
@@ -174,8 +174,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cupofcoffee.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="55" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="55" />
+        <state>
+          <caret column="17" selection-start-column="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
